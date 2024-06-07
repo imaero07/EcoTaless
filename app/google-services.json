@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "594820245622",
+    "project_id": "ecotales-fc45e",
+    "storage_bucket": "ecotales-fc45e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594820245622:android:e3535d3d936c75cf461757",
+        "android_client_info": {
+          "package_name": "com.ss.slanguage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6_VFnZsW75afBOjb4ZfgW_qSruCP55Tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594820245622:android:dbd7e610b30b873a461757",
+        "android_client_info": {
+          "package_name": "ru.amiralab.ecotales"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6_VFnZsW75afBOjb4ZfgW_qSruCP55Tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
